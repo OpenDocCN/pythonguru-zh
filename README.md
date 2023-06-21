@@ -6,7 +6,7 @@
 > 
 > 问：如何生成随机数？答：让新手退出 vim。
 
-* [在线阅读](http://pygr.apachecn.org/)
+* [在线阅读](http://pygr.flygon.net/)
 ## 下载
 
 ### Docker
